@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
 body{
-    background-color: #98AFC7 ;
+    background-color: #66a4e7 ;
     font-family: "Fredoka One";
 }
 .container{
@@ -9,12 +9,12 @@ body{
 }
 h3{
     font-size: 2rem;
-    color: white;
+    color: rgb(247, 246, 252);
 }
 button{
     outline: none;
     border: whitesmoke;
-    background: rgb(75, 4, 240);
+    background: rgb(142, 115, 206);
     padding: 20px;
     border-radius: 20px;
     font-size: 1rem;
