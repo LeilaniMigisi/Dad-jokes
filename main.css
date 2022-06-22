@@ -1,4 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
 body{
     background-color: #98AFC7 ;
-    font-family : 
+    font-family: "Fredoka One";
+}
+.container{
+    text-align: center;
+}
+h3{
+    font-size: 2rem;
+    color: white;
+}
+button{
+    outline: none;
+    border: none;
+    background: rgb(109, 223, 43);
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 1rem;
+
 }

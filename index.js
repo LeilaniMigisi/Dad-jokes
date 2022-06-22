@@ -6,7 +6,7 @@ jokeBtn.addEventListener('click', generateJoke)
 generateJoke()
 
 
-/*async function generateJoke() {
+async function generateJoke() {
   const config = {
     headers: {
       Accept: 'application/json',
@@ -18,7 +18,7 @@ generateJoke()
   const data = await res.json()
 
   jokeEl.innerHTML = data.joke
-}*/
+}
 
 function generateJoke() {
    const config = {
