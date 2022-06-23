@@ -12,7 +12,7 @@ h3{
     color: rgb(247, 246, 252);
 }
 button{
-    outline: none;
+    outline: white;
     border: whitesmoke;
     background: rgb(142, 115, 206);
     padding: 20px;
