@@ -1,3 +1,4 @@
+alert("Make sure not to crack your ribs!");
 const jokeEl = document.getElementById('joke')
 const jokeBtn = document.getElementById('jokeBtn')
 
