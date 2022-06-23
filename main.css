@@ -6,6 +6,7 @@ body{
 }
 .container{
     text-align: center;
+    font-size: large;
 }
 h3{
     font-size: 3rem;
