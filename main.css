@@ -10,6 +10,7 @@ body{
 h3{
     font-size: 3rem;
     color: rgb(247, 246, 252);
+    padding: 10px;
 }
 button{
     outline: white;
