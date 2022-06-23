@@ -15,8 +15,8 @@ button{
     outline: white;
     border: whitesmoke;
     background: rgb(142, 115, 206);
-    padding: 20px;
-    border-radius: 20px;
+    padding: 10px;
+    border-radius: 10px;
     font-size: 2rem;
 
 }
